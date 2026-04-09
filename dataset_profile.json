@@ -1,0 +1,52 @@
+{
+  "source_file": "Labour Attendance TTEL February 2026.xlsx",
+  "sheet_count": 16,
+  "estate_sheets": [
+    "Bearwell",
+    "Clarendon",
+    "Calsay",
+    "Dessford",
+    "Deniyaya",
+    "Great Western",
+    "Holyrood",
+    "Indola",
+    "Kiruwanaganga",
+    "Logie",
+    "Mattakelle",
+    "Moragalla",
+    "Palmerston",
+    "Radella",
+    "Somerset",
+    "Wattegoda"
+  ],
+  "row_count": 113394,
+  "date_min": "2026-01-02",
+  "date_max": "2026-12-02",
+  "common_work_types": {
+    "Registered": 66912,
+    "Cash": 36129,
+    "Bulk": 10353
+  },
+  "top_work_codes": {
+    "Plucker": 70187,
+    "nan": 5449,
+    "PH": 3497,
+    "PKG": 2272,
+    "FLR": 1906,
+    "MW": 1821,
+    "SL": 1670,
+    "FLS": 1625,
+    "OPL": 1510,
+    "CMW": 1289,
+    "FIW": 1265,
+    "FL": 932,
+    "FW": 913,
+    "FSH": 860,
+    "FOS": 742,
+    "BOM": 676,
+    "SLT": 646,
+    "FCL": 622,
+    "FSP": 608,
+    "CA": 604
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "Bambarakelly": {
+    "has_data": false,
+    "months": [],
+    "rows": 0
+  },
+  "Eildonhall": {
+    "has_data": false,
+    "months": [],
+    "rows": 0
+  },
+  "Tillicoultry": {
+    "has_data": false,
+    "months": [],
+    "rows": 0
+  },
+  "Hillstream": {
+    "has_data": false,
+    "months": [],
+    "rows": 0
+  },
+  "Frocester": {
+    "has_data": false,
+    "months": [],
+    "rows": 0
+  },
+  "Halwatura": {
+    "has_data": true,
+    "months": [
+      "2026-02"
+    ],
+    "rows": 518
+  },
+  "Mirishena": {
+    "has_data": false,
+    "months": [],
+    "rows": 0
+  },
+  "Neuchatel": {
+    "has_data": true,
+    "months": [
+      "2026-02"
+    ],
+    "rows": 3923
+  },
+  "Millakanda": {
+    "has_data": false,
+    "months": [],
+    "rows": 0
+  },
+  "Alton": {
+    "has_data": false,
+    "months": [],
+    "rows": 0
+  },
+  "Fairlawn": {
+    "has_data": true,
+    "months": [
+      "2026-02",
+      "2026-03"
+    ],
+    "rows": 11755
+  },
+  "Gouravilla": {
+    "has_data": true,
+    "months": [
+      "2026-03"
+    ],
+    "rows": 9301
+  },
+  "Mahanilu": {
+    "has_data": false,
+    "months": [],
+    "rows": 0
+  },
+  "Stockholm": {
+    "has_data": false,
+    "months": [],
+    "rows": 0
+  },
+  "Annfield": {
+    "has_data": true,
+    "months": [
+      "2026-02"
+    ],
+    "rows": 6629
+  },
+  "Battalgalla": {
+    "has_data": true,
+    "months": [
+      "2026-02"
+    ],
+    "rows": 4271
+  },
+  "Fordyce": {
+    "has_data": true,
+    "months": [
+      "2026-02"
+    ],
+    "rows": 6449
+  },
+  "Ingestre": {
+    "has_data": true,
+    "months": [
+      "2026-02"
+    ],
+    "rows": 16195
+  },
+  "Invery": {
+    "has_data": true,
+    "months": [
+      "2026-02"
+    ],
+    "rows": 5196
+  },
+  "Robgill": {
+    "has_data": true,
+    "months": [
+      "2026-02"
+    ],
+    "rows": 6676
+  },
+  "Tillyrie": {
+    "has_data": true,
+    "months": [
+      "2026-02"
+    ],
+    "rows": 4311
+  },
+  "Dewalakanda": {
+    "has_data": false,
+    "months": [],
+    "rows": 0
+  },
+  "Ederapola": {
+    "has_data": false,
+    "months": [],
+    "rows": 0
+  },
+  "Ganepalla": {
+    "has_data": false,
+    "months": [],
+    "rows": 0
+  },
+  "Kiriporuwa": {
+    "has_data": false,
+    "months": [],
+    "rows": 0
+  },
+  "Lavent": {
+    "has_data": false,
+    "months": [],
+    "rows": 0
+  },
+  "Panawatta": {
+    "has_data": false,
+    "months": [],
+    "rows": 0
+  },
+  "Urumiwella": {
+    "has_data": false,
+    "months": [],
+    "rows": 0
+  },
+  "We Oya": {
+    "has_data": false,
+    "months": [],
+    "rows": 0
+  },
+  "Halgolla": {
+    "has_data": false,
+    "months": [],
+    "rows": 0
+  },
+  "Kitulgala": {
+    "has_data": false,
+    "months": [],
+    "rows": 0
+  },
+  "Kalupahana": {
+    "has_data": false,
+    "months": [],
+    "rows": 0
+  },
+  "Kelani": {
+    "has_data": false,
+    "months": [],
+    "rows": 0
+  },
+  "Edinburgh": {
+    "has_data": true,
+    "months": [
+      "2026-02"
+    ],
+    "rows": 5731
+  },
+  "Glassugh": {
+    "has_data": true,
+    "months": [
+      "2026-02"
+    ],
+    "rows": 6995
+  },
+  "Nuwara Eliya": {
+    "has_data": true,
+    "months": [
+      "2026-02"
+    ],
+    "rows": 5818
+  },
+  "Oliphant": {
+    "has_data": true,
+    "months": [
+      "2026-02"
+    ],
+    "rows": 3229
+  },
+  "Pedro": {
+    "has_data": true,
+    "months": [
+      "2026-02"
+    ],
+    "rows": 15148
+  },
+  "Uda Radella": {
+    "has_data": false,
+    "months": [],
+    "rows": 0
+  },
+  "Deniyaya": {
+    "has_data": true,
+    "months": [
+      "2026-01",
+      "2026-02"
+    ],
+    "rows": 15794
+  },
+  "Indola": {
+    "has_data": true,
+    "months": [
+      "2026-01",
+      "2026-02"
+    ],
+    "rows": 5589
+  },
+  "Kiruwanaganga": {
+    "has_data": true,
+    "months": [
+      "2026-01",
+      "2026-02"
+    ],
+    "rows": 18732
+  },
+  "Moragalla": {
+    "has_data": true,
+    "months": [
+      "2026-01",
+      "2026-02"
+    ],
+    "rows": 5410
+  },
+  "Calsay": {
+    "has_data": true,
+    "months": [
+      "2026-01",
+      "2026-02"
+    ],
+    "rows": 9631
+  },
+  "Clarendon": {
+    "has_data": true,
+    "months": [
+      "2026-01",
+      "2026-02"
+    ],
+    "rows": 7164
+  },
+  "Dessford": {
+    "has_data": true,
+    "months": [
+      "2026-01",
+      "2026-02"
+    ],
+    "rows": 16554
+  },
+  "Radella": {
+    "has_data": true,
+    "months": [
+      "2026-01",
+      "2026-02"
+    ],
+    "rows": 18566
+  },
+  "Somerset": {
+    "has_data": true,
+    "months": [
+      "2026-01",
+      "2026-02"
+    ],
+    "rows": 22521
+  },
+  "Bearwell": {
+    "has_data": true,
+    "months": [
+      "2026-01",
+      "2026-02"
+    ],
+    "rows": 18129
+  },
+  "Great Western": {
+    "has_data": true,
+    "months": [
+      "2026-01",
+      "2026-02"
+    ],
+    "rows": 21115
+  },
+  "Holyrood": {
+    "has_data": true,
+    "months": [
+      "2026-01",
+      "2026-02"
+    ],
+    "rows": 13744
+  },
+  "Logie": {
+    "has_data": true,
+    "months": [
+      "2026-01",
+      "2026-02"
+    ],
+    "rows": 10491
+  },
+  "Mattakelle": {
+    "has_data": true,
+    "months": [
+      "2026-01",
+      "2026-02"
+    ],
+    "rows": 22836
+  },
+  "Palmerston": {
+    "has_data": true,
+    "months": [
+      "2026-01",
+      "2026-02"
+    ],
+    "rows": 7138
+  },
+  "Wattegoda": {
+    "has_data": true,
+    "months": [
+      "2026-01",
+      "2026-02"
+    ],
+    "rows": 19397
+  }
+}

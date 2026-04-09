@@ -1,0 +1,26 @@
+{
+  "admins": [
+    {
+      "username": "ADMIN",
+      "display_name": "System Admin",
+      "role": "admin",
+      "can_upload": true,
+      "aliases": [
+        "admin",
+        "ADMIN"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "username": "TTEL@LG",
+      "display_name": "Logie User",
+      "estate": "Logie",
+      "aliases": [
+        "logie",
+        "ttel@lg",
+        "ttellg"
+      ]
+    }
+  ]
+}
