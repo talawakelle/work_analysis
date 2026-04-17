@@ -1,32 +1,11 @@
-# Python
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-.pytest_cache/
-.mypy_cache/
-.ruff_cache/
-.venv/
-venv/
-
-# Node
+﻿.venv/
 node_modules/
-dist/
-.vite/
-
-# Environment and local config
-.env
-.env.local
-.env.*.local
-
-# Data / databases
+__pycache__/
 *.db
-*.sqlite
-*.sqlite3
-backend/uploads/
-
-# OS / editor
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
+*.db-shm
+*.db-wal
+.env
+.env.*
+frontend/.env
+frontend/.env.local
+backend/.env
