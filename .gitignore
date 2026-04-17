@@ -9,3 +9,6 @@ __pycache__/
 frontend/.env
 frontend/.env.local
 backend/.env
+
+frontend/dist/
+dist/
