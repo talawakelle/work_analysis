@@ -527,6 +527,16 @@ def employee_detail(
                     "employment_type": employment_type,
                     "division": main_record.division,
                     "field_code": main_record.field_code,
+
+
+
+
+
+
+
+
+
+                    
                     "gang": main_record.gang or employee.gang,
                     "plantation": main_record.plantation,
                     "crop": main_record.crop,
